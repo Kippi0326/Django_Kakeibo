@@ -1,6 +1,6 @@
 # Djangoで家計簿作成
  
- aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Djangoで作成する家計簿をチーム開発で実装しましょう！
  
 # デモ

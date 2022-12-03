@@ -84,8 +84,6 @@ python manage.py runserver
 2.実行結果を確認
 http://127.0.0.1:8000/index/
 
-![image](https://user-images.githubusercontent.com/57485017/205082539-9c099e76-8a25-4f5a-abb0-98d6287a43cd.png)
-
 
 # 仮想環境の起動
 

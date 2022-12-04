@@ -23,7 +23,7 @@
 完成したら家計簿システムの強みを記載する
 
 # 家計簿システムの仕組み
- 
+ https://docs.google.com/document/d/19BLoGI18PihGY5yQDkxmjmJtf5qeveaRr68QoQBdcrM/edit?usp=sharing
 
  
 # 要件
